@@ -49,7 +49,7 @@ function insertionSort(arr) {
 }
 ```
 
-The average location of an element is $n/2$ and the function will compare it with all elements before it, approximately $(n - 1)/2$ compatrisons. Thus on average, it will take $T(n) = \frac{n(n - 1)}{4} \in \Theta(n^2)$
+The average location of an element is $n/2$ and the function will compare it with all elements before it, approximately $(n - 1)/2$ comparisons. Thus on average, it will take $T(n) = \frac{n(n - 1)}{4} \in \Theta(n^2)$
 
 
 Describe your reasoning and the conclusion you've come to. Your reasoning is
