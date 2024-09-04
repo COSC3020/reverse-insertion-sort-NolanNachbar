@@ -58,4 +58,5 @@ The average location of an element is $n/2$ and the function will compare it wit
 
 I certify that I have listed all sources used to complete this exercise, including the use of any Large Language Models. All of the work is my own, except where stated otherwise. I am aware that plagiarism carries severe penalties and that if plagiarism is suspected, charges may be filed against me without prior notice. 
 
-I did everything independently. But I used this 
+I did everything independently. But I used this to check and make sure that my answer of $O(n^2)$ was right:
+https://www.geeksforgeeks.org/insertion-sort-algorithm/
